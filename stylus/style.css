@@ -31,4 +31,9 @@ header {
   border-radius: 15px;
   background-color: #c0c0c0;
 }
+@media (max-height: 500px) {
+  header {
+    box-shadow: none;
+  }
+}
 
