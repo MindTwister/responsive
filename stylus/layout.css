@@ -1,13 +1,4 @@
-header {
-  padding: 30px;
-  margin: 30px;
-}
-#sectioncontainer section {
-  box-sizing: border-box;
-  width: 30%;
-  margin-left: 3%;
-  float: left;
-  padding: 15px;
-  height: 300px;
+h1 {
+  word-wrap: break-word;
 }
 

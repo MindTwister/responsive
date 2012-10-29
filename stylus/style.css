@@ -2,10 +2,6 @@ body {
   background-color: #fff;
   font-family: helvetica;
 }
-h1 {
-  font-size: 48px;
-  text-align: center;
-}
 a {
   color: #33f;
   text-decoration: none;
@@ -21,14 +17,5 @@ ul {
   list-style-type: square;
   padding: 1em;
   padding-top: 0;
-}
-header {
-  border-radius: 15px;
-  background-color: #c0c0c0;
-  box-shadow: 15px 15px 8px #9a9a9a;
-}
-#sectioncontainer section {
-  border-radius: 15px;
-  background-color: #c0c0c0;
 }
 
