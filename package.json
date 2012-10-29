@@ -1,0 +1,20 @@
+{
+  "name": "responsive",
+  "version": "0.0.0",
+  "description": "Responsive design training session",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/MindTwister/responsive.git"
+  },
+  "author": "Kristoffer Sall Hansen",
+  "license": "BSD",
+  "dependencies": {
+    "jade": "~0.27.6",
+    "coffee-script": "~1.4.0",
+    "stylus": "~0.30.1"
+  }
+}

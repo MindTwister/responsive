@@ -1,0 +1,32 @@
+$blueish = #33f
+
+body
+  background-color: #fff
+  font-family: helvetica
+h1
+  font-size: 48px
+  text-align: center
+
+a
+  color: $blueish
+  text-decoration: none
+  &:visited
+    color: $blueish
+  &:hover
+    color: darken($blueish, 20%)
+    text-decoration: underline
+
+ul
+  list-style-type: square
+  padding: 1em
+  padding-top: 0
+
+header
+  border-radius: 15px
+  background-color: silver
+  box-shadow: 15px 15px 8px darken(silver, 20%)
+
+#sectioncontainer
+  section
+    border-radius: 15px
+    background-color: silver
